@@ -25,7 +25,7 @@ class Graph extends Component<IProps, {}> {
     const schema = {
       price_abc : 'float',
       price_def : 'float',
-      ratio : 'float',
+      ratio : 'floa',
       timestamp: 'date',
       upper_bound : 'float',
       lower_bound : 'float',
